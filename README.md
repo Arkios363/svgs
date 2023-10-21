@@ -1,5 +1,3 @@
-# SVGs
+# GIF
 
-Aquest repositori conté exemples de com crear SVGs de diverses maneres.
-
-Existeixen algunes branques amb exemples variats.
+Repositorio sobre practica de insertar un gif
